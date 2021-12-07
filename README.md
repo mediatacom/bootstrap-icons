@@ -1,3 +1,7 @@
 # bootstrap-icons
 
-https://github.com/twbs/icons/tree/v1.7.2
+Repository
+https://github.com/twbs/icons
+
+Website
+https://icons.getbootstrap.com/
